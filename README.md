@@ -44,10 +44,10 @@ We celebrate originality, humor, and creativity — not just technical correctne
 ---
 
 ## Design Guidelines
-- Dark modern tech theme (VS Code + Discord vibe)
-- Primary: Indigo `#6366f1`
-- Accent: Pink `#ec4899`
-- Typography: Inter / Roboto
+- ... theme ???
+- Primary: TO BE decided
+- Accent: TO BE DECIDED
+- Typography: ???
 - Rounded corners (12px), subtle shadows
 
 ---
@@ -89,7 +89,7 @@ src/
 
 ---
 
-## 🎯 Success Criteria (MVP)
+## Success Criteria (MVP)
 - Users can browse competitions  
 - OAuth login works  
 - Submissions + voting + comments functional  
