@@ -1,5 +1,8 @@
 import { Box, Container, Typography } from "@mui/material";
-export default function HomePage() {
+import { BodyText } from "../Landingpage/Components/ContextBox/Components/Text/BodyText";
+import { PixelButton } from "../Landingpage/Components/ContextBox/Components/Buttons/PixelButton";
+
+export default function Footer() {
   return (
     <>
       <Box
