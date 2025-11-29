@@ -1,8 +1,8 @@
 import { Box, Container } from "@mui/material";
-import { SectionTitle } from "../Landingpage/Components/ContextBox/Components/Text/SectionTitle";
-import { FeatureCard } from "./Components/FeatureCard";
-import { FeatureTitle } from "./Components/FeatureTitle";
-import { FeatureText } from "./Components/FeatureText";
+import { SectionTitle } from "../../Components/Text/SectionTitle";
+import { FeatureCard } from "../../Components/FeatureCards/FeatureCard";
+import { FeatureText } from "../../Components/FeatureCards/FeatureText";
+import { FeatureTitle } from "../../Components/FeatureCards/FeatureTitle";
 
 export default function CodeFeatures() {
   return (
