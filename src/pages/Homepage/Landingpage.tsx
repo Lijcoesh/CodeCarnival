@@ -1,7 +1,8 @@
 import { Stack } from "@mui/material";
-import { ChevronLeft, ChevronRight } from "./Components/Chevron";
-import { LogoText } from "./Components/ContextBox/Components/Text/LogoText";
-import ContextBox from "./Components/ContextBox/ContextBox";
+import { ChevronLeft } from "../../Components/Chevron/ChevronLeft";
+import { ChevronRight } from "../../Components/Chevron/ChevronRight";
+import { LogoText } from "../../Components/Text/LogoText";
+import ContextBox from "../../Components/ContextBox/ContextBox";
 
 export default function Landingpage() {
   return (
