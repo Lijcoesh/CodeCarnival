@@ -8,7 +8,7 @@ export default function Landingpage() {
   return (
     <>
       <Stack
-        sx={{ minHeight: "100vh" }}
+        sx={{ minHeight: "100vh", backgroundColor: "#FFE03D" }}
         alignItems="center"
         justifyContent="center"
       >
