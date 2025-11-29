@@ -4,10 +4,6 @@ Dit bestand bevat de actiepunten voortkomend uit de code-review.
 
 Prioriteit: Hoog → Laag
 
-- [ ] Centraliseer MUI-thema en voeg `ThemeProvider` toe (maak theme van `palette.ts` en `typography.ts`)
-- Gebruik `theme.palette` in plaats van hex-codes in componenten
-- Plaats `ThemeProvider` in `src/main.tsx`
-
 - [ ] Vervang hardcoded kleuren door `theme.palette`
 - [ ] Verwijder gedupliceerde `ContentBox` / `ContentBoxBorder` / `StyledComponents` duplicaten
 - [ ] Refactor knoppen: maak `BasePixelButton` en exporteer `Primary`/`Secondary` varianten
