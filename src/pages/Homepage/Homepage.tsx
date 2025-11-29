@@ -1,6 +1,6 @@
-import Landingpage from "../Homepage/Landingpage/Landingpage";
-import CodeFeatures from "../Homepage/CodeFeatures/CodeFeatures";
-import Footer from "../Homepage/Footer/Footer";
+import Landingpage from "./Landingpage";
+import CodeFeatures from "./CodeFeatures";
+import Footer from "./Footer";
 
 export default function Homepage() {
   return (
