@@ -4,13 +4,12 @@ import { styled } from "@mui/material/styles";
 export const PixelButton = styled(Button)({
   backgroundColor: "#8B2BE2",
   color: "#FFE03D",
-  fontFamily: '"Press Start 2P", "Courier New", monospace',
+  fontFamily: '"Press Start 2P"',
   fontSize: "16px",
   fontWeight: 800,
   textTransform: "uppercase",
   padding: "16px 32px",
   border: "4px solid #000000",
-  borderRadius: 0,
   boxShadow: "6px 6px 0px #000000",
   transition: "all 0.1s steps(2)",
   "&:hover": {
