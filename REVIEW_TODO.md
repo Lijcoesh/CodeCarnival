@@ -4,7 +4,6 @@ Dit bestand bevat de actiepunten voortkomend uit de code-review.
 
 Prioriteit: Hoog → Laag
 
-- [ ] Vervang hardcoded kleuren door `theme.palette`
 - [ ] Verwijder gedupliceerde `ContentBox` / `ContentBoxBorder` / `StyledComponents` duplicaten
 - [ ] Refactor knoppen: maak `BasePixelButton` en exporteer `Primary`/`Secondary` varianten
 - [ ] Controleer en herstel kleurcontrast (WCAG) voor gele achtergrond / witte tekst

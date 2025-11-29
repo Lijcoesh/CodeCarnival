@@ -1,9 +1,9 @@
-import { SectionTitle } from "./Components/Text/SectionTitle";
-import { BodyText } from "./Components/Text/BodyText";
-import { ContentBoxBorder } from "./Components/ContextBoxBorder";
+import { SectionTitle } from "../Text/SectionTitle";
+import { BodyText } from "../Text/BodyText";
+import { ContentBoxBorder } from "./ContextBoxBorder";
 import { Box } from "@mui/material";
-import { PixelButton } from "../../../../../Components/Buttons/PixelButton";
-import { SecondaryButton } from "../../../../../Components/Buttons/SecondaryButton";
+import { PixelButton } from "../Buttons/PixelButton";
+import { SecondaryButton } from "../Buttons/SecondaryButton";
 
 export default function ContextBox() {
   return (
