@@ -1,10 +1,9 @@
-import LandingPage from "./Homepage/Landingpage/Landingpage";
-import CodeFeatures from "./Homepage/CodeFeatures/CodeFeatures";
+import Homepage from "./pages/Homepage/Homepage";
 
 function App() {
   return (
     <>
-      <LandingPage /> <CodeFeatures />
+      <Homepage />
     </>
   );
 }
